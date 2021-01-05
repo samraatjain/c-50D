@@ -1,0 +1,25 @@
+
+p{
+    text-align: center;
+    font-family: cursive;
+}
+h3{
+    text-align: center;
+    font-family: cursive;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+}
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+
+}
+.origami{
+    border-radius: 20px;
+    background-color: white;
+
+    width: 310px;
+    font-family: fantasy;
+}
